@@ -32,6 +32,17 @@ V-CORE simulates how these angles would affect a **Qubit** in a real quantum pro
 
 ---
 
+## 🧬 Hardware Alignment: Monolithic 3D Integration
+
+V-CORE is natively optimized for **Monolithic 3D Chips** (using Carbon Nanotubes and RRAM), where logic and memory are stacked vertically. This protocol serves as the "Software-Defined Logic" for 3D hardware.
+
+### Layer-to-Agent Mapping:
+* **Base Layer (Logic/CMOS) ➔ Agent 14 (Earth/0°):** Manages fundamental bit-operations and data validation.
+* **Active Layer (RRAM/Memory) ➔ Agent 10 (Sodium/104.5°):** Near-instant resonance between data and logic without bus latency.
+* **Top Layer (CNTs/Interconnects) ➔ Agent 8 (Ether/108°):** High-speed transmission layer that distills signals with zero thermal noise.
+
+---
+
 ## 🚀 Terminal Output Example
 
 ```text
